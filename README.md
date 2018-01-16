@@ -69,7 +69,7 @@ FILES:
 VERSION HISTORY:
 ----------------
 Development started on 27-Jul-2017.
-Uploaded to Github on 17-Jan-2018 - no version number assigned
+Uploaded to Github on 16-Jan-2018 - no version number assigned
 
 
 DEVELOPER CONTACT INFO:
@@ -78,7 +78,9 @@ DEVELOPER CONTACT INFO:
 Please pass questions to:
 
 Jacob Barhak Ph.D.
+
 Email: jacob.barhak@gmail.com
+
 http://sites.google.com/site/jacobbarhak/
 
 
@@ -87,6 +89,9 @@ ACKNOWLEDGEMENTS:
 -----------------
 
 Thanks to Tadashi Kamio for the email correspondence that resulted in this work.
+
+Data attributed to: 
+Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 
 LICENSE
