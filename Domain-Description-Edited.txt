@@ -1,0 +1,38 @@
+FIB	Plasma fibrinogen (normal: 170-340 mg/dl) A  protein required for coagulation.
+PLT	Platelet count (normal: > 150,000/mm3). Low  values indicate a coagulation defect or excessive  loss of platelets (continued bleeding, etc.).
+PT	Prothrombin time (normal control values are  indicated by PT; patient's values are listed as  PT1 or PT2; in seconds).  Elevated values indicate  coagulation defects.
+PT1	Prothrombin time (normal control values are  indicated by PT; patient's values are listed as  PT1 or PT2; in seconds).  Elevated values indicate  coagulation defects.
+PT2	Prothrombin time (normal control values are  indicated by PT; patient's values are listed as  PT1 or PT2; in seconds).  Elevated values indicate  coagulation defects.
+PTT	Partial thromboplastin time (same nomenclature as  PT).  Elevated values indicate coagulation defects.
+PTT1	Partial thromboplastin time (same nomenclature as  PT).  Elevated values indicate coagulation defects.
+PTT2	Partial thromboplastin time (same nomenclature as  PT).  Elevated values indicate coagulation defects.
+ALB	Serum albumin (normal: 3.5-5.5 g/dl)
+ALT	Alanine aminotransferase (SGPT) (normal: 10-40 U/L)   High levels have a similar significance as for AST.
+AST	Aspartate aminotransferase (SGOT) (normal: 10-40 U/L)  High levels of this enzyme indicate liver cell damage.
+BILITOTAL	Total bilirubin (normal: 0.3-1.0 mg/dl)
+BUN	Blood urea nitrogen.  A measurement of kidney  function (normal: 6-26 mg/dl).  Increased levels  indicate renal insufficiency.
+CL	Serum chloride (normal: 98-106 mEq/L)
+CR	Serum creatinine (normal:0.5-1.5 mg/dl) another  indicator of renal function; high levels indicate  renal insufficiency.
+GLU	Blood glucose (normal (fasting): 70-110 mg/dl)
+IONCA	Serum ionized calcium (normal: 2.3-2.8 mEq/L)
+K	Serum potassium (normal: 3.5-5 mEq/L)
+MG	Serum magnesium (normal: 1.5-2.5 mEq/L)
+NA	Serum sodium (normal: 136-145 mEq/L)
+NH3	Whole blood ammonia (normal: 80-110 mcg/dl)  Elevated in patients with liver disease.
+PHOS	Serum inorganic phosphate (normal: 3-4.5 mg/dl)
+TP	Serum total protein (normal: 5.5 - 8 g/dl)
+TRIG	Serum triglycerides (normal: 40-130 mg/dl)
+HCT	Hematocrit (normal: 35-45%) Indicates the  concentration of red cells in blood.
+HGB	Hemoglobin concentration (normal: 10-14.5 g/dl)  An indicator of the oxygen-carrying capacity of  blood.
+MCH	Mean corpuscular hemoglobin (normal: 27 pg.)
+MCHC	Mean corpuscular hemoglobin concentration  (normal:34 g/dl )
+MCV	Mean corpuscular (i.e., red blood cell) volume  (normal: 80 fl.)
+RBC	Red blood cell count (normal: 3.8-5.0 million/mm3)
+WBC	White blood cell count (normal: 4,500-10,000/mm3)
+BICARBART	Arterial sodium bicarbonate concentration (normal:  21-27 mEq/L)
+CO2	Plasma CO2 content (normal: 21-30 mEq/L)  
+O2SATART	Arterial O2 saturation as measured via blood gas  (normal: 95-99%)
+PCO2ART	PaCO2 measured via arterial blood gas analysis  (normal: 35-45 mmHg)
+PHART	Arterial pH (normal: 7.38-7.42)
+PO2ART	PaO2 measured via arterial blood gas analysis  (normal: 95-105 mmHg)
+CA	Not Defined by Original Domain Description File - May be an Error
